@@ -4,4 +4,4 @@ This website is Horiseon's landing page. It has a section for Search Engine Opti
 ![Horiseon2](https://user-images.githubusercontent.com/115498300/201204126-0b1919b2-bb2f-49d6-897a-f94595ca396f.PNG)
 
 https://ivatheking.github.io/Week-1-Challenge/
-![horny 4 me](https://user-images.githubusercontent.com/115498300/201239344-b894a7d7-bc22-4b53-82c7-247192104e96.PNG)
+
